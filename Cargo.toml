@@ -1,0 +1,12 @@
+[package]
+name = "compress-lz77-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "LZ77 sliding window compression: match finding, lazy matching, length-distance token encoding and decoding in pure Rust."
+documentation = "https://docs.rs/compress-lz77-rs"
+repository = "https://github.com/SuperInstance/compress-lz77-rs"
+readme = "README.md"
+keywords = ["lz77", "compression", "sliding-window", "deflate", "lz"]
+categories = ["algorithms", "compression"]
+license = "MIT OR Apache-2.0"

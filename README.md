@@ -1,0 +1,1 @@
+# compress-lz77-rs\n\nLZ77 sliding window compression library in Rust.\n\n## Features\n\n- Sliding window buffer with configurable size\n- Brute-force and lazy match finding\n- Length-distance token encoding/decoding\n- Token serialization/deserialization\n- Pure Rust, no external dependencies\n\n## License\n\nMIT OR Apache-2.0
